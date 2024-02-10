@@ -1,0 +1,17 @@
+2024-01-27 01:33:44,412 - DEBUG - Checking if -3.0 is positive.
+2024-01-27 01:33:44,412 - ERROR - Error! -3.0 is not a positive number.
+2024-01-27 01:34:27,404 - ERROR - Error! Please enter a valid number.
+2024-01-27 01:35:20,258 - DEBUG - Checking if 3.0 is positive.
+2024-01-27 01:35:20,258 - INFO - 3.0 is a positive number.
+2024-01-27 02:03:41,027 - DEBUG - Checking if 4.0 is positive.
+2024-01-27 02:03:41,027 - INFO - 4.0 is a positive number.
+2024-01-27 02:03:47,868 - DEBUG - Checking if -4.0 is positive.
+2024-01-27 02:03:47,868 - ERROR - Error! -4.0 is not a positive number.
+2024-01-27 02:04:28,633 - DEBUG - Checking if 10.0 is positive.
+2024-01-27 02:04:28,633 - INFO - 10.0 is a positive number.
+2024-01-27 02:06:48,023 - DEBUG - Checking if 10 is positive.
+2024-01-27 02:06:48,023 - INFO - 10 is a positive number.
+2024-01-27 02:06:55,179 - DEBUG - Checking if 5000 is positive.
+2024-01-27 02:06:55,179 - INFO - 5000 is a positive number.
+2024-01-27 02:09:08,182 - DEBUG - Checking if 2024 is positive.
+2024-01-27 02:09:08,183 - INFO - 2024 is a positive number.

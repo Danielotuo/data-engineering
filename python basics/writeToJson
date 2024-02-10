@@ -1,0 +1,24 @@
+import json
+import os
+
+DATA_FILE = "data_file.json"
+
+data = {
+    "name": "John",
+    "age": 28,
+    "city": "New York",
+    "country": "USA"
+}
+
+# Write to file
+with open(DATA_FILE, "w") as write_file:
+    json.dump(data, write_file)
+
+# Check if the file exists
+print(f'File exists: {os.path.isfile(DATA_FILE)}')
+
+# Read from file
+with open(DATA_FILE, "r") as read_file:
+    data = json.load(read_file)
+
+print(data)

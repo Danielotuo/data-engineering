@@ -1,0 +1,8 @@
+Pandas
+Pyarrow
+logging
+jsonschema
+pytest
+json
+Pandas
+numpy

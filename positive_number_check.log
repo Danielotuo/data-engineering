@@ -1,0 +1,6 @@
+2024-01-27 01:29:39,855 - DEBUG - Checking if 5.0 is positive.
+2024-01-27 01:29:39,855 - INFO - 5.0 is a positive number.
+2024-01-27 01:29:57,933 - DEBUG - Checking if -8.0 is positive.
+2024-01-27 01:29:57,933 - ERROR - Error! -8.0 is not a positive number.
+2024-01-27 01:31:38,865 - DEBUG - Checking if 2.0 is positive.
+2024-01-27 01:31:38,865 - INFO - 2.0 is a positive number.
